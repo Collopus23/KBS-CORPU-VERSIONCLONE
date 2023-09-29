@@ -1,0 +1,20 @@
+.select2-selection {
+    padding-left: 0.15rem;
+    padding-right: .5rem;
+}
+
+.light-theme *[class^="select2-selection_"] {
+    color: #000 !important;
+}
+
+.dark-theme *[class^="select2-selection_"] {
+    color: #fff !important;
+}
+
+.dark-theme .nav-item.active .sidemenu-label {
+    color: #fff !important;
+}
+
+.max-w-10 {
+    max-width: 10rem;
+}
